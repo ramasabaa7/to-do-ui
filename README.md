@@ -4,4 +4,4 @@ A ToDo App.
 
 UI design
 
-![UI](/uploads/3db5160fc8a1d2625801b5b57607d91b/UI.png)
+![image alt](https://github.com/ramasabaa7/to-do-ui/blob/80bcd7cd3aff88e2eccc4e69529cf880944d4501/UI.png)
